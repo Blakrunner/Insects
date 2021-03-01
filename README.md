@@ -1,4 +1,4 @@
 # Insects
-Drawing if insects using c++ with SFML 
+Drawing of insects using c++ with SFML 
 
 [![image](sample.png)]
